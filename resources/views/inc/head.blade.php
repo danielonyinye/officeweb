@@ -20,5 +20,5 @@
     <!--Main Style-->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css">
     <!--Theme Color-->
-    <link href="{{ asset('css/theme-color/default.css') }}" rel="stylesheet" id="theme-color" type="text/css">
+    <link href="{{ asset('css/theme-color/emerland.css') }}" rel="stylesheet" id="theme-color" type="text/css">
 </head>

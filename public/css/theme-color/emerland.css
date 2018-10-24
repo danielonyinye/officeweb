@@ -36,7 +36,8 @@ figure.effect-zoe figcaption,
 #testimonial .owl-dot.active,
 .line-btn:hover,
 .line-btn.active {
-  background: #2ecc71;
+  /*background: #2ecc71;*/
+    background: #00802b;
 }
 
 .top-btn:hover,

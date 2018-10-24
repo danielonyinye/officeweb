@@ -8,7 +8,8 @@
                     <div class="top-contact link-hover-black hidden-xs"> <strong class="welcome-text">Nigeria Computer Emergency Response Team</strong> </div>
                     <!-- Top Social Icon -->
                     <div class="top-social-icon icons-hover-black">
-                        <div class="icons-hover-black"> <a href="javascript:avoid(0);"> <i class="fa fa-facebook"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-twitter"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-youtube"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-dribbble"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-linkedin"></i> </a> </div>
+                        <strong style="color: #00802b; font-size: 34px; text-shadow: 2px 2px 2px #0f3e0f;">ONSA</strong>
+                        <!-- <div class="icons-hover-black"> <a href="javascript:avoid(0);"> <i class="fa fa-facebook"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-twitter"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-youtube"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-dribbble"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-linkedin"></i> </a> </div> -->
                     </div>
                 </div>
             </div>
