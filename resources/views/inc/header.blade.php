@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <header id="header" class="header header-1">
-    <div id="top-bar" class="top-bar-section top-bar-bg-color">
+    <div id="top-bar" class="top-bar-section top-bar-bg-color" style="background: white">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -8,7 +8,10 @@
                     <div class="top-contact link-hover-black hidden-xs"> <strong class="welcome-text">Nigeria Computer Emergency Response Team</strong> </div>
                     <!-- Top Social Icon -->
                     <div class="top-social-icon icons-hover-black">
-                        <strong style="color: #00802b; font-size: 34px; text-shadow: 2px 2px 2px #0f3e0f;">ONSA</strong>
+                        <div style="position: fixed; margin-top: -30px;">
+                            <img src="{{ asset('images/nigflag.gif') }}" alt="Flag">
+                        </div>
+                        <!-- <strong style="color: #00802b; font-size: 34px; text-shadow: 2px 2px 2px #0f3e0f;">ONSA</strong> -->
                         <!-- <div class="icons-hover-black"> <a href="javascript:avoid(0);"> <i class="fa fa-facebook"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-twitter"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-youtube"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-dribbble"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-linkedin"></i> </a> </div> -->
                     </div>
                 </div>
@@ -19,7 +22,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">
-                    <div class="logo"> <a href="javascript:avoid(0);"><img src="{{ asset('images/ngcert_logo2.png') }}" alt="Mega business"></a> </div>
+                    <div class="logo"> <a href="javascript:avoid(0);"><img src="{{ asset('images/ngcert_logo2.png') }}" alt="Office Logo"></a> </div>
                     <!-- Phone Menu button -->
                     <button id="menu" class="menu visible-xs"></button>
                 </div>
